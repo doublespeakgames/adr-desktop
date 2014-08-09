@@ -1,11 +1,7 @@
 A Dark Room
 =========
 
-A Minimalist Text Adventure Game
+A Minimalist Text Adventure Game, now on your desktop!
 
-[Click to play](http://adarkroom.doublespeakgames.com/)  
-[ [Chinese](http://adarkroom.doublespeakgames.com/?lang=cn) | [French](http://adarkroom.doublespeakgames.com/?lang=fr) | [Spanish](http://adarkroom.doublespeakgames.com/?lang=es) ]
-
-[Play on GitHub](http://continuities.github.io/adarkroom)
-
+Thanks, node-webkit!
 
