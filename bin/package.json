@@ -1,0 +1,15 @@
+{
+	"name": "A Dark Room",
+	"main": "../index.html",
+	"window": {
+		"fullscreen": true,
+		"toolbar": false,
+		"frame": true,
+		"resizable": false,
+		"kiosk": true,
+		"always-on-top": true,
+		"width": 1920,
+		"height": 1080,
+		"show_in_taskbar": true
+	}
+}
